@@ -19,13 +19,13 @@
     <Mode>bridge</Mode>
     <Publish>
       <Port>
-        <HostPort>13579</HostPort>
-        <ContainerPort>13579</ContainerPort>
+        <HostPort>64738</HostPort>
+        <ContainerPort>64738</ContainerPort>
         <Protocol>tcp</Protocol>
       </Port>
       <Port>
-        <HostPort>13579</HostPort>
-        <ContainerPort>13579</ContainerPort>
+        <HostPort>64738</HostPort>
+        <ContainerPort>64738</ContainerPort>
         <Protocol>udp</Protocol>
       </Port>
     </Publish>
